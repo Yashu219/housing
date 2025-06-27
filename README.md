@@ -1,13 +1,13 @@
-# 🏠 House Price Prediction - Linear Regression
+# House Price Prediction - Linear Regression
 
 ## Task 3 – AI & ML Internship (Elevate Labs)
 
-### 📌 Objective
+### Objective
 To build a simple and multiple linear regression model using real housing data to predict house prices.
 
 ---
 
-### 🧰 Tools Used
+### Tools Used
 - Python
 - Pandas
 - Scikit-learn
@@ -16,7 +16,7 @@ To build a simple and multiple linear regression model using real housing data t
 
 ---
 
-### 📊 Steps Performed
+### Steps Performed
 1. Loaded and explored the housing dataset
 2. Encoded categorical variables (like 'yes'/'no' to 1/0)
 3. Selected key features: `area`, `bedrooms`, `bathrooms`
@@ -31,7 +31,7 @@ To build a simple and multiple linear regression model using real housing data t
 
 ---
 
-### 🔍 Key Observations
+### Key Observations
 - The model uses `area`, `bedrooms`, and `bathrooms` to predict prices.
 - Linear regression performed reasonably well.
 - Room and bathroom count significantly affect house prices.
@@ -39,7 +39,7 @@ To build a simple and multiple linear regression model using real housing data t
 
 ---
 
-### 📈 Model Performance
+### Model Performance
 | Metric       | Value                |
 |--------------|----------------------|
 | MAE          | ₹12,65,275           |
@@ -48,11 +48,11 @@ To build a simple and multiple linear regression model using real housing data t
 
 ---
 
-### 📐 Model Equation (Simplified):
+### Model Equation (Simplified):
 
 ---
 
-### ⚙️ Coefficients (from model)
+### Coefficients (from model)
 - **Intercept**: ₹59,485  
 - **Area**: ₹345 per sq. ft  
 - **Bedrooms**: ₹3.6 Lakhs  
@@ -60,7 +60,7 @@ To build a simple and multiple linear regression model using real housing data t
 
 ---
 
-### 📸 Visualization
+### Visualization
 
 ![Actual vs Predicted Prices](Figure_1.jpg)
 
@@ -72,7 +72,7 @@ To build a simple and multiple linear regression model using real housing data t
 
 ---
 
-### ✅ Outcome
+### Outcome
 Successfully completed as part of Task 3 in the **Elevate Labs AI & ML Internship**.
 
 ---
